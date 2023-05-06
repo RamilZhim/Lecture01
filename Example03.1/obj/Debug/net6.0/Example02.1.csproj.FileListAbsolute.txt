@@ -1,0 +1,15 @@
+C:\Users\Учёба\Desktop\CSlec\Lec01\Example03.1\obj\Debug\net6.0\Example02.1.csproj.AssemblyReference.cache
+C:\Users\Учёба\Desktop\CSlec\Lec01\Example03.1\obj\Debug\net6.0\Example02.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Учёба\Desktop\CSlec\Lec01\Example03.1\obj\Debug\net6.0\Example02.1.AssemblyInfoInputs.cache
+C:\Users\Учёба\Desktop\CSlec\Lec01\Example03.1\obj\Debug\net6.0\Example02.1.AssemblyInfo.cs
+C:\Users\Учёба\Desktop\CSlec\Lec01\Example03.1\obj\Debug\net6.0\Example02.1.csproj.CoreCompileInputs.cache
+C:\Users\Учёба\Desktop\CSlec\Lec01\Example03.1\bin\Debug\net6.0\Example02.1.exe
+C:\Users\Учёба\Desktop\CSlec\Lec01\Example03.1\bin\Debug\net6.0\Example02.1.deps.json
+C:\Users\Учёба\Desktop\CSlec\Lec01\Example03.1\bin\Debug\net6.0\Example02.1.runtimeconfig.json
+C:\Users\Учёба\Desktop\CSlec\Lec01\Example03.1\bin\Debug\net6.0\Example02.1.dll
+C:\Users\Учёба\Desktop\CSlec\Lec01\Example03.1\bin\Debug\net6.0\Example02.1.pdb
+C:\Users\Учёба\Desktop\CSlec\Lec01\Example03.1\obj\Debug\net6.0\Example02.1.dll
+C:\Users\Учёба\Desktop\CSlec\Lec01\Example03.1\obj\Debug\net6.0\refint\Example02.1.dll
+C:\Users\Учёба\Desktop\CSlec\Lec01\Example03.1\obj\Debug\net6.0\Example02.1.pdb
+C:\Users\Учёба\Desktop\CSlec\Lec01\Example03.1\obj\Debug\net6.0\Example02.1.genruntimeconfig.cache
+C:\Users\Учёба\Desktop\CSlec\Lec01\Example03.1\obj\Debug\net6.0\ref\Example02.1.dll
